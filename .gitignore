@@ -1,2 +1,3 @@
 core.exe
-buid/
+build/
+*.exe
